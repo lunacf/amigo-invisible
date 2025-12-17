@@ -27,8 +27,8 @@ Edita el archivo `test.py`:
 1. **Números de teléfono**: Agrega los números en formato internacional sin el símbolo `+`
    ```python
    numeros = [
-       "541173690805",  # Argentina: 54 + 9 + área + número
-       "541124844217",  # México: 52 + 1 + área + número
+       "541173340825",  # Argentina: 54 + 9 + área + número
+       "541134256545",  # México: 52 + 1 + área + número
    ]
    ```
 
