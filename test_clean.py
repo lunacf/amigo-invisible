@@ -47,7 +47,7 @@ class WhatsAppBot:
             xpaths = [
                 '//div[@contenteditable="true"][@data-tab="10"]',
                 '//div[@contenteditable="true"][@role="textbox"]',
-                '//div[@title="Aca va el mensaje"]',
+                '//div[@title="Escribe un mensaje aquí"]',
                 '//div[@title="Type a message"]',
                 '//footer//div[@contenteditable="true"]',
             ]
