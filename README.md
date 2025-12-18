@@ -22,7 +22,7 @@ pip install selenium
 
 ## Configuración
 
-Edita el archivo `test.py`:
+Edita el archivo `test_clean.py`:
 
 1. **Números de teléfono**: Agrega los números en formato internacional sin el símbolo `+`
    ```python
@@ -44,7 +44,7 @@ Edita el archivo `test.py`:
 
 1. Ejecuta el script:
 ```bash
-python test.py
+python test_clean.py
 ```
 
 2. Se abrirá Edge con WhatsApp Web
